@@ -1,0 +1,6 @@
+Aggregation,Scenario,Accuracy,F1-Score,Recall,AUC-ROC,MCC
+fedavg,clean,0.9433,0.963,0.9594,0.9528,0.8438
+performance,clean,0.9575,0.9726,0.978,0.9578,0.8795
+dqa,clean,0.9553,0.9715,0.9874,0.9483,0.8717
+dqa,poisoning,0.9281,0.9535,0.9574,0.9296,0.8054
+dqa,defended,0.9501,0.9682,0.9791,0.9391,0.8567
